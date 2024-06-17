@@ -1,0 +1,5 @@
+Bugs:
+
+-When user picks a difficulty, BucketizeWords() selects only the first 9/130+ words that meet the difficulty criteria... the problem is that this list will consist of the same 9 words every time. Need to randomize this too.
+
+
